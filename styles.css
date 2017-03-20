@@ -1,0 +1,12 @@
+h1{
+  color: #34434B;
+}
+/*.btn-success{
+  background-color: #A09474;
+  border-color: #A09474;
+}*/
+.btn-success:hover,
+.btn-success:disabled{
+  background-color: #A0D080);
+  border-color: #A0D080;
+}
